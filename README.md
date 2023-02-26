@@ -5,9 +5,9 @@
 </p>
 
 # Nome do projeto
-
+Cure Mate
 ## Nome do grupo
-
+OncoAI
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/bruno-wasserstein">Bruno Wasserstein</a>
 - <a href="https://www.linkedin.com/in/gabriel-gallo-m-coutinho-443809232/">Gabriel Gallo Menequini Coutinho</a>
@@ -23,24 +23,12 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 ## 📁 Estrutura de pastas
 
-```
-Alunos inteli (remover essa observação do readme.md após leitura e execução):
-
-Supondo que você é da Turma 4 e Projeto 5, substitua:
-
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf
-por
-T5_G5_V01_Predictive_Model_Document.pdf
-
-Faça o mesmo para a documentação em formato DOCX.
-```
-
 |--> documentos<br>
   &emsp;| --> outros <br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.pdf<br>
-  &emsp;| T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Document.docx<br>
+  &emsp;| T5_G5_V01_Predictive_Model_Document.pdf<br>
+  &emsp;| T5_G5_V01_Predictive_Model_Document.docx<br>
 |--> notebooks<br>
-  &emsp;|--> T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_Predictive_Model_Development.ipynb<br>
+  &emsp;|--> T5_G5_V01_Predictive_Model_Development.ipynb<br>
 | readme.md<br>
 | license.txt
 
@@ -76,10 +64,14 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Nome do integrante 1, Nome do integrante 2, Nome do integrante 3, Nome do integrante 4, Nome do integrante 5, Nome do integrante 6, Nome do integrante 7</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2023M3T5-Inteli/grupo5">G-5(mudar para o nome do grupo)</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects"> Inteli, </a> <a href="https://www.linkedin.com/in/bruno-wasserstein">Bruno Wasserstein, </a> <a href="https://www.linkedin.com/in/gabriel-gallo-m-coutinho-443809232/">Gabriel Gallo Menequini Coutinho, </a> <a href="https://www.linkedin.com/in/joao-victor-montagna-4bb3a4247/">João Victor Cavalcante Montagna, </a> <a href="https://www.linkedin.com/in/mariana-g%C3%B6rresen-b03059210">Mariana Brasil Görresen, </a>  <a href="https://www.linkedin.com/in/mauricio-felicissimo-475024240/">Maurício Trapnell Felicíssimo, </a> <a href="https://www.linkedin.com/in/samuel-lucas-de-almeida-241a77210/">Samuel Lucas de Almeida, </a>  <a href="https://www.linkedin.com/in/stefano-parente-652822244/">Stefano Tamer Parente, </a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto:
 
 1. <https://creativecommons.org/share-your-work/>
+2. <https://www.python.org/>
+3. <https://stackoverflow.com/>
+4. 
+5. 
