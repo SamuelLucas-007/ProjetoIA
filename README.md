@@ -47,20 +47,6 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
-## 🗃 Histórico de lançamentos
-
-* 0.2.1 - 25/01/2022
-    * Atualização de documentos (código do módulo permanece inalterado).
-* 0.2.0 - 15/01/2022
-    * Remove `setDefaultXYZ()`
-    * Adiciona `init()`
-* 0.1.1 - 11/01/2022
-    * Crash quando chama `baz()`
-* 0.1.0 - 10/01/2022
-    * O primeiro lançamento adequado
-    * Renomeia `foo()` para `bar()`
-* 0.0.1 - 01/01/2022
-    * Trabalho em andamento
 
 ## 📋 Licença/License
 
@@ -73,5 +59,4 @@ Aqui estão as referências usadas no projeto:
 1. <https://creativecommons.org/share-your-work/>
 2. <https://www.python.org/>
 3. <https://stackoverflow.com/>
-4. 
-5. 
+
